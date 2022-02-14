@@ -43,4 +43,5 @@ function validate() {
     phone.focus();
     return false;
   }
+  alert("Form submitted successfully!");
 }
